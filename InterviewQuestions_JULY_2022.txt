@@ -42,3 +42,5 @@ Company: EPAM
     one application is running in the pod now how this application access internet through services.
 25. How to communicate the pods which are in different worker nodes within the cluster
 26. Explain load balancer service used in k8s.
+
+end
