@@ -1,0 +1,44 @@
+Company: EPAM
+
+1. Tell me about yourself
+2. What is the meaning of du and df  used in Linux
+3. Explain NFS file system
+4. What is the difference between git fetch and git pull
+5. what is the meaning of git commands
+   git rebase --continue
+   git rebase --aboard
+6. Scenario based question 
+  there are two branches A & B
+  A --> 1 2 3 4 5 6   = 6 commits
+  B --> 1 2 3 4 5 6   = 6 commits
+ but i only merge 4th commit from branch B to branch A how can you that.
+
+7. they shown one shell script and ask me to explain and what output you are getting
+8. They ask me to write a expression based shell script   
+9. they asked scenario based question on find command and grep command
+10. What are the types of load balencer. what type of load balancer you used.
+11. explain how load balancer are helping for auto scaling
+12. Scenario based question on VPC
+    You have PostgreSQL database in private subnet and i want to access that database from outside vpc 
+    except NAT gate way what method you are using 
+13. what NAT instance
+14. They shown me one Jenkins pipeline script and ask me too explain that script.
+    It includes master slave connection
+                Build with parameter, in that they used both string and choice
+                One stage checkout code, build image
+15. How to pass the variable in that jenkinfile version=1.
+16. How to run the two stages simultaneously 
+    Example: build and Sonarcube report
+17. Tell me test case how to define environmental variables in jenkinsfile without hard coring it.  
+18. explain docker volume.
+19. they written one docker command and ask me to explain the command and when it has to be used 
+    it include --link, -v, -d, 
+20. what is meaning of -p 5000:7000
+    what is the host port and which one container port
+21. In which port we can access the outsider can reach the application
+22. what are the object you know in K8s.
+23. Explain liveness probe and readiness probe. test case
+24. Scenario based question 
+    one application is running in the pod now how this application access internet through services.
+25. How to communicate the pods which are in different worker nodes within the cluster
+26. Explain load balancer service used in k8s.
